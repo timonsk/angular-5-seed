@@ -1,0 +1,13 @@
+@import '../../../assets/colors.scss';
+.page-not-found {
+  color: $granite-gray;
+  .fa-unlink {
+    margin-top: 100px;
+    margin-bottom: 3%;
+    font-size: 120px;
+    color: $pastel-red;
+  }
+  .btn {
+    color:$granite-gray;
+  }
+}
